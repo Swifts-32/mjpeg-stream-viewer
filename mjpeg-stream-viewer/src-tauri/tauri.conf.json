@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "mjpeg-stream-viewer",
+        "title": "MJPEG Stream Viewer",
         "width": 800,
         "height": 600
       }
